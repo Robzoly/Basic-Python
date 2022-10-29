@@ -4,4 +4,4 @@ for i in [1,2,3]:
 
 for ia in ["Primavera", "Verano", "Invierno", "Otoño"]:
     print(ia)
-#El bucle imprimirá los valores dentro de la lista.
+#El bucle imprimirá los valores dentro de la lista
