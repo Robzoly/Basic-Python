@@ -1,8 +1,8 @@
 for i in ["Clase","Salón", 35]:
     print("Hola mundo")
 
-for owo in [1,2,3]:
-    print(owo)
+for oWo in [1,2,3]:
+    print(oWo)
 
 for ia in ["Dinero", "Efectivo"]:
     print("Hola", end=" ")

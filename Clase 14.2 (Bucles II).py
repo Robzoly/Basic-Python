@@ -1,13 +1,13 @@
-Contador=0
+Owo=0
 miEmail=input("Introduce tu correo electrónico: ")
 
 for i in miEmail:
     
     if(i=="@" or i=="."):
 
-        Contador=Contador+1
+        Owo=Owo+1
 
-if Contador==2:
+if Owo==2:
     print("Email es correcto")
 else:
     print("Email es incorrecto")

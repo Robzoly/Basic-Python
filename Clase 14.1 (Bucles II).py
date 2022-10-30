@@ -16,7 +16,7 @@ password=False
 miPassword=input("Introduzca su contraseña: ")
 for ai in miPassword:
 
-    if(ai=="Zetaelfail"):
+    if(ai=="Zetaelfail3"):
         password=True
 if password==True:
     print("Contraseña incorrecta")
