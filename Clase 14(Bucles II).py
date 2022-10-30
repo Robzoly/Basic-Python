@@ -9,3 +9,6 @@ for ia in ["Dinero", "Efectivo"]:
 
 for correo in "ejemplo@correo.com":
     print("Tacos", end=" ")
+
+for a in range(5):
+    print("waos")
